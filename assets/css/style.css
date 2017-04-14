@@ -115,3 +115,13 @@ canvas {
     font-family: 'Raleway-Thin';
     letter-spacing: 0.5px;
 }
+
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:hover {
+    color: #01c9ff;
+}
