@@ -104,7 +104,24 @@ canvas {
     border-radius: 1px;
     padding: 10px 40px;
     text-transform: none;
-    width: 40%;
+    width: 30%;
+    outline: none;
+    background: rgba(255, 255, 255, 0.79);
+    /*background-color: #fff;*/
+    text-align: center;
+    font-size: 18px;
+    color: #000000;
+    font-weight: bold;
+    font-family: 'Raleway-Thin';
+    letter-spacing: 0.5px;
+}
+
+.fname{
+    border: none;
+    border-radius: 1px;
+    padding: 10px 40px;
+    text-transform: none;
+    width: 30%;
     outline: none;
     background: rgba(255, 255, 255, 0.79);
     /*background-color: #fff;*/
